@@ -1,0 +1,78 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="Кино",Amedia 1 HD
+https://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Кино",Аmedia Hit HD
+http://cdn.nexttvnet.ru/hlsl/10/Amedia_Premium_HD/Amedia_Premium_HD_3/index.m3u8
+#EXTINF:-1 group-title="Кино",Аmedia Hit HD
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Сериал UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Кино UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Русский Экстрим UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание HD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Киносемья HD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Шокирующее HD
+http://freeiptv.uk.to:8738/mfolive.m3u8?media=shok
+#EXTINF:-1 group-title="Кино",Сиеста HD
+http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кино",Trash HD
+http://cdn.nexttvnet.ru/hlsl/1/TrashHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://185.71.64.167:80/307215676115/307215676115/81570
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://89.106.234.3:80/khl_hd_34_35.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+https://46-21-250-207.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+http://iptv.prosto.tv:7000/ch108/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 1
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 2
+http://51.68.140.190:8081/tv/match-fut-2/chunks.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Футбол 3
+http://51.68.140.190:8081/tv/match-fut-3/chunks.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 1
+https://46-21-250-207.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 2 HD
+https://46-21-250-207.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 3 HD
+https://46-21-250-207.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол
+http://195.49.206.244:90/Futbol/index.m3u8
+#EXTINF:-1,TVP Sport HD
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыка",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",ТНТ Music HD
+http://83.222.205.65:8080/tntmusic/index.m3u8
